@@ -16,6 +16,9 @@ window.CATALOGO = [
             "name": "Jamón de bellota 100% ibérico",
             "description": "48 meses de curación.",
             "image": "img/productos/casalba/jamon-de-bellota-100-iberico.webp",
+            "gallery": [
+              "img/productos/casalba/jamon-de-bellota-100-iberico-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -39,6 +42,10 @@ window.CATALOGO = [
             "name": "Jamón de bellota ibérico 75% Vintage",
             "description": "Raza ibérica 75 %. 5 años de curación.",
             "image": "img/productos/casalba/jamon-de-bellota-iberico-75-vintage.webp",
+            "gallery": [
+              "img/productos/casalba/jamon-de-bellota-iberico-75-vintage-2.webp",
+              "img/productos/casalba/jamon-de-bellota-iberico-75-vintage-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -62,6 +69,9 @@ window.CATALOGO = [
             "name": "Paleta de bellota 100% ibérica",
             "description": "Raza ibérica 100 %. 24–36 meses de curación.",
             "image": "img/productos/casalba/paleta-de-bellota-100-iberica.webp",
+            "gallery": [
+              "img/productos/casalba/paleta-de-bellota-100-iberica-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -85,6 +95,10 @@ window.CATALOGO = [
             "name": "Paleta de bellota ibérica 50–75%",
             "description": "Raza ibérica 50–75 %.",
             "image": "img/productos/casalba/paleta-de-bellota-iberica-5075.webp",
+            "gallery": [
+              "img/productos/casalba/paleta-de-bellota-iberica-50-75-2.webp",
+              "img/productos/casalba/paleta-de-bellota-iberica-50-75-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -108,6 +122,10 @@ window.CATALOGO = [
             "name": "Caña de lomo de bellota ibérico",
             "description": "100% raza ibérica. 120–150 días de curación.",
             "image": "img/productos/casalba/cana-de-lomo-de-bellota-iberico.webp",
+            "gallery": [
+              "img/productos/casalba/cana-de-lomo-de-bellota-iberico-2.webp",
+              "img/productos/casalba/cana-de-lomo-de-bellota-iberico-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -126,6 +144,10 @@ window.CATALOGO = [
             "name": "Lomito ibérico de bellota (presa)",
             "description": "120 días de curación.",
             "image": "img/productos/casalba/lomito-iberico-de-bellota.webp",
+            "gallery": [
+              "img/productos/casalba/lomito-iberico-de-bellota-presa-2.webp",
+              "img/productos/casalba/lomito-iberico-de-bellota-presa-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -144,6 +166,11 @@ window.CATALOGO = [
             "name": "Coppa de cabecero ibérico de bellota",
             "description": "120 días de curación.",
             "image": "img/productos/casalba/coppa-de-cabecero-iberico-de-bellota.webp",
+            "gallery": [
+              "img/productos/casalba/coppa-de-cabecero-iberico-de-bellota-2.webp",
+              "img/productos/casalba/coppa-de-cabecero-iberico-de-bellota-3.webp",
+              "img/productos/casalba/coppa-de-cabecero-iberico-de-bellota-4.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -162,6 +189,11 @@ window.CATALOGO = [
             "name": "Chorizo ibérico de bellota cular",
             "description": "Con secreto y presa cortados a mano.",
             "image": "img/productos/casalba/chorizo-iberico-de-bellota-cular.webp",
+            "gallery": [
+              "img/productos/casalba/chorizo-iberico-de-bellota-cular-2.webp",
+              "img/productos/casalba/chorizo-iberico-de-bellota-cular-3.webp",
+              "img/productos/casalba/chorizo-iberico-de-bellota-cular-4.webp"
+            ],
             "formats": [
               {
                 "label": "Cular",
@@ -180,6 +212,10 @@ window.CATALOGO = [
             "name": "Chorizo ibérico de bellota sarta",
             "description": "Con secreto y presa cortados a mano.",
             "image": "img/productos/casalba/chorizo-iberico-de-bellota-sarta.webp",
+            "gallery": [
+              "img/productos/casalba/chorizo-iberico-de-bellota-sarta-2.webp",
+              "img/productos/casalba/chorizo-iberico-de-bellota-sarta-3.webp"
+            ],
             "formats": [
               {
                 "label": "Sarta",
@@ -193,6 +229,9 @@ window.CATALOGO = [
             "name": "Salchichón ibérico de bellota",
             "description": "Con solomillo ibérico de bellota.",
             "image": "img/productos/casalba/salchichon-iberico-de-bellota.webp",
+            "gallery": [
+              "img/productos/casalba/salchichon-iberico-de-bellota-2.webp"
+            ],
             "formats": [
               {
                 "label": "Cular",
@@ -224,6 +263,10 @@ window.CATALOGO = [
             "name": "Fuet ibérico",
             "description": "40–50 días de curación.",
             "image": "img/productos/casalba/fuet-iberico.webp",
+            "gallery": [
+              "img/productos/casalba/fuet-iberico-2.webp",
+              "img/productos/casalba/fuet-iberico-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -237,6 +280,9 @@ window.CATALOGO = [
             "name": "Morcón ibérico",
             "description": "150–180 días de curación.",
             "image": "img/productos/casalba/morcon-iberico.webp",
+            "gallery": [
+              "img/productos/casalba/morcon-iberico-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -250,6 +296,10 @@ window.CATALOGO = [
             "name": "Morcilla ibérica cular",
             "description": "Con secreto y presa cortados a mano.",
             "image": "img/productos/casalba/morcilla-iberica-cular.webp",
+            "gallery": [
+              "img/productos/casalba/morcilla-iberica-cular-2.webp",
+              "img/productos/casalba/morcilla-iberica-cular-3.webp"
+            ],
             "formats": [
               {
                 "label": "Cular",
@@ -268,6 +318,10 @@ window.CATALOGO = [
             "name": "Morcilla ibérica vela",
             "description": "Con secreto y presa cortados a mano.",
             "image": "img/productos/casalba/morcilla-iberica-vela.webp",
+            "gallery": [
+              "img/productos/casalba/morcilla-iberica-vela-2.webp",
+              "img/productos/casalba/morcilla-iberica-vela-3.webp"
+            ],
             "formats": [
               {
                 "label": "Vela",
@@ -281,6 +335,11 @@ window.CATALOGO = [
             "name": "Sobrasada ibérica de bellota",
             "description": "Untable, de cerdo ibérico de bellota.",
             "image": "img/productos/casalba/sobrasada-iberica-de-bellota.webp",
+            "gallery": [
+              "img/productos/casalba/sobrasada-iberica-de-bellota-2.webp",
+              "img/productos/casalba/sobrasada-iberica-de-bellota-3.webp",
+              "img/productos/casalba/sobrasada-iberica-de-bellota-4.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -294,6 +353,10 @@ window.CATALOGO = [
             "name": "Panceta ibérica de bellota adobada",
             "description": "60 días de curación.",
             "image": "img/productos/casalba/panceta-iberica-de-bellota-adobada.webp",
+            "gallery": [
+              "img/productos/casalba/panceta-iberica-de-bellota-adobada-2.webp",
+              "img/productos/casalba/panceta-iberica-de-bellota-adobada-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -312,6 +375,10 @@ window.CATALOGO = [
             "name": "Papada ibérica de bellota adobada",
             "description": "60 días de curación.",
             "image": "img/productos/casalba/papada-iberica-de-bellota-adobada.webp",
+            "gallery": [
+              "img/productos/casalba/papada-iberica-de-bellota-adobada-2.webp",
+              "img/productos/casalba/papada-iberica-de-bellota-adobada-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -343,6 +410,10 @@ window.CATALOGO = [
             "name": "Tocino ibérico de bellota salado",
             "description": "Tocino de bellota curado en sal.",
             "image": "img/productos/casalba/tocino-iberico-de-bellota-salado.webp",
+            "gallery": [
+              "img/productos/casalba/tocino-iberico-de-bellota-salado-2.webp",
+              "img/productos/casalba/tocino-iberico-de-bellota-salado-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -362,6 +433,9 @@ window.CATALOGO = [
             "name": "Jamón de cebo de campo ibérico Selección",
             "description": "Raza ibérica 50 %. 36–42 meses de curación.",
             "image": "img/productos/casalba/jamon-de-cebo-de-campo-iberico-seleccion.webp",
+            "gallery": [
+              "img/productos/casalba/jamon-de-cebo-de-campo-iberico-seleccion-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -385,6 +459,9 @@ window.CATALOGO = [
             "name": "Paleta de cebo de campo ibérica",
             "description": "Raza ibérica 50 %.",
             "image": "img/productos/casalba/paleta-de-cebo-de-campo-iberica.webp",
+            "gallery": [
+              "img/productos/casalba/paleta-de-cebo-de-campo-iberica-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -461,6 +538,11 @@ window.CATALOGO = [
             "name": "Jamón curado Serralba",
             "description": "Ahumado o sin ahumar. Más de 24 meses de curación.",
             "image": "img/productos/casalba/jamon-curado-serralba.webp",
+            "gallery": [
+              "img/productos/casalba/jamon-curado-serralba-2.webp",
+              "img/productos/casalba/jamon-curado-serralba-3.webp",
+              "img/productos/casalba/jamon-curado-serralba-4.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -489,6 +571,9 @@ window.CATALOGO = [
             "name": "Chorizo sarta extra",
             "description": "Chorizo serrano en sarta.",
             "image": "img/productos/casalba/chorizo-sarta-extra.webp",
+            "gallery": [
+              "img/productos/casalba/chorizo-sarta-extra-2.webp"
+            ],
             "formats": [
               {
                 "label": "Sarta",
@@ -502,6 +587,10 @@ window.CATALOGO = [
             "name": "Panceta curada ahumada serrana",
             "description": "Panceta curada y ahumada.",
             "image": "img/productos/casalba/panceta-curada-ahumada-serrana.webp",
+            "gallery": [
+              "img/productos/casalba/panceta-curada-ahumada-serrana-2.webp",
+              "img/productos/casalba/panceta-curada-ahumada-serrana-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -689,7 +778,10 @@ window.CATALOGO = [
           {
             "name": "Pastrami de Wagyu (brisket)",
             "description": "Pastrami de pecho de Wagyu. Pieza de 3 kg, entera o en 2 mitades.",
-            "image": null,
+            "image": "img/productos/casalba/pastrami-de-wagyu-brisket.webp",
+            "gallery": [
+              "img/productos/casalba/pastrami-de-wagyu-brisket-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza entera",
@@ -749,6 +841,9 @@ window.CATALOGO = [
             "name": "Longaniza extra de payés",
             "description": "Paletilla de cerdo con un punto de grasa.",
             "image": "img/productos/obach/longaniza-extra-de-payes.webp",
+            "gallery": [
+              "img/productos/obach/longaniza-extra-de-payes-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -765,6 +860,9 @@ window.CATALOGO = [
             "name": "Longaniza chafada de montaña",
             "description": "Paletilla de las madres, tripa natural.",
             "image": "img/productos/obach/longaniza-chafada-de-montana.webp",
+            "gallery": [
+              "img/productos/obach/longaniza-chafada-de-montana-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -829,6 +927,10 @@ window.CATALOGO = [
             "name": "Cigalets (minifuet)",
             "description": "Pequeños fuets de unos 10 g.",
             "image": "img/productos/obach/cigaletes-minifuet.webp",
+            "gallery": [
+              "img/productos/obach/cigalets-minifuet-2.webp",
+              "img/productos/obach/cigalets-minifuet-3.webp"
+            ],
             "formats": [
               {
                 "label": "Granel",
@@ -860,6 +962,10 @@ window.CATALOGO = [
             "name": "Sobrasada de montaña bisbera",
             "description": "Magros de cerdo, grasa y papada.",
             "image": "img/productos/obach/sobrasada-de-montana-bisbera.webp",
+            "gallery": [
+              "img/productos/obach/sobrasada-de-montana-bisbera-2.webp",
+              "img/productos/obach/sobrasada-de-montana-bisbera-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -876,6 +982,9 @@ window.CATALOGO = [
             "name": "Longaniza Seca del Pastor",
             "description": "Tipo pascua.",
             "image": "img/productos/obach/longaniza-seca-del-pastor.webp",
+            "gallery": [
+              "img/productos/obach/longaniza-seca-del-pastor-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -912,6 +1021,9 @@ window.CATALOGO = [
             "name": "Chorizo dulce",
             "description": "Al vacío.",
             "image": "img/productos/obach/chorizo-dulce.webp",
+            "gallery": [
+              "img/productos/obach/chorizo-dulce-2.webp"
+            ],
             "formats": [
               {
                 "label": "Unidad",
@@ -928,6 +1040,9 @@ window.CATALOGO = [
             "name": "Chorizo picante",
             "description": "Al vacío.",
             "image": "img/productos/obach/chorizo-picante.webp",
+            "gallery": [
+              "img/productos/obach/chorizo-picante-2.webp"
+            ],
             "formats": [
               {
                 "label": "Unidad",
@@ -982,6 +1097,10 @@ window.CATALOGO = [
             "name": "Butifarra blanca",
             "description": "Morro, panceta y carne magra. Al vacío.",
             "image": "img/productos/obach/butifarra-blanca.webp",
+            "gallery": [
+              "img/productos/obach/butifarra-blanca-2.webp",
+              "img/productos/obach/butifarra-blanca-3.webp"
+            ],
             "formats": [
               {
                 "label": "Unidad",
@@ -998,6 +1117,10 @@ window.CATALOGO = [
             "name": "Butifarra de huevo",
             "description": "Morro, huevo, ajo y perejil. Al vacío.",
             "image": "img/productos/obach/butifarra-de-huevo.webp",
+            "gallery": [
+              "img/productos/obach/butifarra-de-huevo-2.webp",
+              "img/productos/obach/butifarra-de-huevo-3.webp"
+            ],
             "formats": [
               {
                 "label": "Unidad",
@@ -1014,6 +1137,10 @@ window.CATALOGO = [
             "name": "Butifarra negra",
             "description": "Sangre de cerdo y cebolla dulce. Al vacío.",
             "image": "img/productos/obach/butifarra-negra.webp",
+            "gallery": [
+              "img/productos/obach/butifarra-negra-2.webp",
+              "img/productos/obach/butifarra-negra-3.webp"
+            ],
             "formats": [
               {
                 "label": "Unidad",
@@ -1030,6 +1157,10 @@ window.CATALOGO = [
             "name": "Bull de carnetes",
             "description": "Morro de cerdo cocido y carnes magras.",
             "image": "img/productos/obach/bull-de-carnetes.webp",
+            "gallery": [
+              "img/productos/obach/bull-de-carnetes-2.webp",
+              "img/productos/obach/bull-de-carnetes-3.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -1094,6 +1225,10 @@ window.CATALOGO = [
             "name": "Bull de lengua redondo",
             "description": "Al vacío.",
             "image": "img/productos/obach/bull-de-lengua-redondo.webp",
+            "gallery": [
+              "img/productos/obach/bull-de-lengua-redondo-2.webp",
+              "img/productos/obach/bull-de-lengua-redondo-3.webp"
+            ],
             "formats": [
               {
                 "label": "Unidad",
@@ -1126,6 +1261,9 @@ window.CATALOGO = [
             "name": "Bull de lengua largo",
             "description": "Al vacío.",
             "image": "img/productos/obach/bull-de-lengua-largo.webp",
+            "gallery": [
+              "img/productos/obach/bull-de-lengua-largo-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -1142,6 +1280,10 @@ window.CATALOGO = [
             "name": "Donja",
             "description": "Panceta y carne magra de primera.",
             "image": "img/productos/obach/donja.webp",
+            "gallery": [
+              "img/productos/obach/donja-2.webp",
+              "img/productos/obach/donja-3.webp"
+            ],
             "formats": [
               {
                 "label": "Unidad",
@@ -1259,6 +1401,9 @@ window.CATALOGO = [
             "name": "Queso semicurado",
             "description": "Leche cruda de oveja manchega.",
             "image": "img/productos/pago-de-la-jaraba/queso-semicurado.webp",
+            "gallery": [
+              "img/productos/pago-de-la-jaraba/queso-semicurado-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -1279,6 +1424,9 @@ window.CATALOGO = [
             "name": "Queso curado",
             "description": "Leche cruda de oveja manchega.",
             "image": "img/productos/pago-de-la-jaraba/queso-curado.webp",
+            "gallery": [
+              "img/productos/pago-de-la-jaraba/queso-curado-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -1299,6 +1447,9 @@ window.CATALOGO = [
             "name": "Queso viejo",
             "description": "Leche cruda. Más de 12 meses.",
             "image": "img/productos/pago-de-la-jaraba/queso-viejo.webp",
+            "gallery": [
+              "img/productos/pago-de-la-jaraba/queso-viejo-2.webp"
+            ],
             "formats": [
               {
                 "label": "Pieza",
@@ -1402,6 +1553,9 @@ window.CATALOGO = [
             "name": "AOVE Arbequina 100%",
             "description": "Extraído en frío y sin filtrar.",
             "image": "img/productos/pago-de-la-jaraba/aove-arbequina-100.webp",
+            "gallery": [
+              "img/productos/pago-de-la-jaraba/aove-arbequina-100-2.webp"
+            ],
             "formats": [
               {
                 "label": "Botella",
@@ -1423,6 +1577,9 @@ window.CATALOGO = [
             "name": "AOVE Cornicabra 100%",
             "description": "Extraído en frío y sin filtrar.",
             "image": "img/productos/pago-de-la-jaraba/aove-cornicabra-100.webp",
+            "gallery": [
+              "img/productos/pago-de-la-jaraba/aove-cornicabra-100-2.webp"
+            ],
             "formats": [
               {
                 "label": "Botella",
@@ -1444,6 +1601,9 @@ window.CATALOGO = [
             "name": "AOVE Coupage",
             "description": "Extraído en frío y sin filtrar.",
             "image": "img/productos/pago-de-la-jaraba/aove-coupage.webp",
+            "gallery": [
+              "img/productos/pago-de-la-jaraba/aove-coupage-2.webp"
+            ],
             "formats": [
               {
                 "label": "Botella",
@@ -1480,6 +1640,9 @@ window.CATALOGO = [
             "name": "Gorrotxas de Tolosa",
             "description": "Macaron vasco tradicional.",
             "image": "img/productos/rafa-gorrotxategi/gorrotxas-de-tolosa.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/gorrotxas-de-tolosa-2.webp"
+            ],
             "formats": [
               {
                 "label": "6 uds",
@@ -1506,6 +1669,9 @@ window.CATALOGO = [
             "name": "Tejas de Tolosa y cigarrillos",
             "description": "La pareja clásica de la repostería tolosarra.",
             "image": "img/productos/rafa-gorrotxategi/tejas-de-tolosa-y-cigarrillos.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/tejas-de-tolosa-y-cigarrillos-2.webp"
+            ],
             "formats": [
               {
                 "label": "Estuche",
@@ -1519,6 +1685,9 @@ window.CATALOGO = [
             "name": "Tejas de Tolosa caramelizadas",
             "description": "Tejas de almendra caramelizada.",
             "image": "img/productos/rafa-gorrotxategi/tejas-de-tolosa-caramelizadas.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/tejas-de-tolosa-caramelizadas-2.webp"
+            ],
             "formats": [
               {
                 "label": "Estuche",
@@ -1540,6 +1709,9 @@ window.CATALOGO = [
             "name": "Tejas con chocolate negro y naranja",
             "description": "Tejas bañadas en chocolate a la naranja.",
             "image": "img/productos/rafa-gorrotxategi/tejas-con-chocolate-negro-y-naranja.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/tejas-con-chocolate-negro-y-naranja-2.webp"
+            ],
             "formats": [
               {
                 "label": "Estuche",
@@ -1556,6 +1728,10 @@ window.CATALOGO = [
             "name": "Tejas mixtas",
             "description": "Almendra y chocolate con naranja.",
             "image": "img/productos/rafa-gorrotxategi/tejas-mixtas.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/tejas-mixtas-2.webp",
+              "img/productos/rafa-gorrotxategi/tejas-mixtas-3.webp"
+            ],
             "formats": [
               {
                 "label": "Estuche",
@@ -1572,6 +1748,9 @@ window.CATALOGO = [
             "name": "Cigarrillos de Tolosa",
             "description": "Barquillos de mantequilla.",
             "image": "img/productos/rafa-gorrotxategi/cigarrillos-de-tolosa.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/cigarrillos-de-tolosa-2.webp"
+            ],
             "formats": [
               {
                 "label": "Estuche",
@@ -1585,6 +1764,9 @@ window.CATALOGO = [
             "name": "Pastas de mantequilla",
             "description": "Pastas finas de mantequilla.",
             "image": "img/productos/rafa-gorrotxategi/pastas-de-mantequilla.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/pastas-de-mantequilla-2.webp"
+            ],
             "formats": [
               {
                 "label": "Estuche",
@@ -1598,6 +1780,9 @@ window.CATALOGO = [
             "name": "Pastas surtidas de mantequilla y chocolate",
             "description": "Pastas de té de mantequilla y bañadas en chocolate.",
             "image": "img/productos/rafa-gorrotxategi/pastas-surtidas-de-mantequilla-y-chocolate.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/pastas-surtidas-de-mantequilla-y-chocolate-2.webp"
+            ],
             "formats": [
               {
                 "label": "Estuche",
@@ -1654,6 +1839,11 @@ window.CATALOGO = [
             "name": "Venezuela 70% Sur del Lago con sidra de hielo",
             "description": "Cacao macerado con sidra de hielo Bizi Goxo de Zapiain.",
             "image": "img/productos/rafa-gorrotxategi/venezuela-70-sur-del-lago-con-sidra-de-hielo.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/venezuela-70-sur-del-lago-con-sidra-de-hielo-2.webp",
+              "img/productos/rafa-gorrotxategi/venezuela-70-sur-del-lago-con-sidra-de-hielo-3.webp",
+              "img/productos/rafa-gorrotxategi/venezuela-70-sur-del-lago-con-sidra-de-hielo-4.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1670,6 +1860,11 @@ window.CATALOGO = [
             "name": "Perú San Martín 45% blanco vegano",
             "description": "Con almendra y cereza, un guiño al pastel vasco.",
             "image": "img/productos/rafa-gorrotxategi/peru-san-martin-45-blanco-vegano.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/peru-san-martin-45-blanco-vegano-2.webp",
+              "img/productos/rafa-gorrotxategi/peru-san-martin-45-blanco-vegano-3.webp",
+              "img/productos/rafa-gorrotxategi/peru-san-martin-45-blanco-vegano-4.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1687,6 +1882,11 @@ window.CATALOGO = [
             "name": "Madagascar Akesson 65%",
             "description": "Cacao del valle de Sambirano, notas de fruta roja.",
             "image": "img/productos/rafa-gorrotxategi/madagascar-akesson-65.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/madagascar-akesson-65-2.webp",
+              "img/productos/rafa-gorrotxategi/madagascar-akesson-65-3.webp",
+              "img/productos/rafa-gorrotxategi/madagascar-akesson-65-4.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1704,6 +1904,11 @@ window.CATALOGO = [
             "name": "Islas Salomón 55% con leche de oveja ahumada",
             "description": "Inspirado en los quesos de oveja ahumados vascos.",
             "image": "img/productos/rafa-gorrotxategi/islas-salomon-55-con-leche-de-oveja-ahumada.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/islas-salomon-55-con-leche-de-oveja-ahumada-2.webp",
+              "img/productos/rafa-gorrotxategi/islas-salomon-55-con-leche-de-oveja-ahumada-3.webp",
+              "img/productos/rafa-gorrotxategi/islas-salomon-55-con-leche-de-oveja-ahumada-4.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1720,6 +1925,11 @@ window.CATALOGO = [
             "name": "Venezuela 85% Las Bromelias",
             "description": "Cacaos silvestres de Ocumare, Chuao y Choroní.",
             "image": "img/productos/rafa-gorrotxategi/venezuela-85-las-bromelias.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/venezuela-85-las-bromelias-2.webp",
+              "img/productos/rafa-gorrotxategi/venezuela-85-las-bromelias-3.webp",
+              "img/productos/rafa-gorrotxategi/venezuela-85-las-bromelias-4.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1736,6 +1946,11 @@ window.CATALOGO = [
             "name": "República Dominicana 72% La Altagracia",
             "description": "Cacao orgánico dominicano, comprado sin intermediarios.",
             "image": "img/productos/rafa-gorrotxategi/republica-dominicana-72-la-altagracia.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/republica-dominicana-72-la-altagracia-2.webp",
+              "img/productos/rafa-gorrotxategi/republica-dominicana-72-la-altagracia-3.webp",
+              "img/productos/rafa-gorrotxategi/republica-dominicana-72-la-altagracia-4.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1752,6 +1967,11 @@ window.CATALOGO = [
             "name": "Basque Txokolate 70% receta del siglo XVII",
             "description": "Cacao, azúcar, canela y vainilla.",
             "image": "img/productos/rafa-gorrotxategi/basque-txokolate-70-receta-del-siglo-xvii.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/basque-txokolate-70-receta-del-siglo-xvii-2.webp",
+              "img/productos/rafa-gorrotxategi/basque-txokolate-70-receta-del-siglo-xvii-3.webp",
+              "img/productos/rafa-gorrotxategi/basque-txokolate-70-receta-del-siglo-xvii-4.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1791,6 +2011,10 @@ window.CATALOGO = [
             "name": "Negro 80% con naranja y caléndula",
             "description": "Naranja confitada y pétalos de caléndula.",
             "image": "img/productos/rafa-gorrotxategi/negro-80-con-naranja-y-calendula.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-80-con-naranja-y-calendula-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-80-con-naranja-y-calendula-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1807,6 +2031,10 @@ window.CATALOGO = [
             "name": "Negro 80% sabor intenso",
             "description": "Suave aroma y sabor intenso.",
             "image": "img/productos/rafa-gorrotxategi/negro-80-sabor-intenso.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-80-sabor-intenso-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-80-sabor-intenso-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1823,6 +2051,10 @@ window.CATALOGO = [
             "name": "Negro 80% con Piment d'Espelette",
             "description": "Arándanos, nueces pecanas y un toque de pimiento de Espelette.",
             "image": "img/productos/rafa-gorrotxategi/negro-80-con-piment-d-espelette.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-80-con-piment-d-espelette-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-80-con-piment-d-espelette-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1839,6 +2071,10 @@ window.CATALOGO = [
             "name": "Negro 70% con sésamo y anacardos",
             "description": "Anacardos y sésamo tostado y caramelizado.",
             "image": "img/productos/rafa-gorrotxategi/negro-70-con-sesamo-y-anacardos.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-70-con-sesamo-y-anacardos-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-70-con-sesamo-y-anacardos-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1855,6 +2091,10 @@ window.CATALOGO = [
             "name": "Negro 70% con pétalos de rosa",
             "description": "Aroma natural de rosa, pétalos y fresas liofilizadas.",
             "image": "img/productos/rafa-gorrotxategi/negro-70-con-petalos-de-rosa.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-70-con-petalos-de-rosa-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-70-con-petalos-de-rosa-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1871,6 +2111,10 @@ window.CATALOGO = [
             "name": "Negro 70% con guindilla de Ibarra",
             "description": "Pecanas, pistachos, arándanos y guindilla de Ibarra.",
             "image": "img/productos/rafa-gorrotxategi/negro-70-con-guindilla-de-ibarra.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-70-con-guindilla-de-ibarra-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-70-con-guindilla-de-ibarra-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1887,6 +2131,10 @@ window.CATALOGO = [
             "name": "Negro 56% con menta y hierbabuena",
             "description": "Menta fresca, hierbabuena y pétalos de violeta.",
             "image": "img/productos/rafa-gorrotxategi/negro-56-con-menta-y-hierbabuena.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-56-con-menta-y-hierbabuena-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-56-con-menta-y-hierbabuena-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1903,6 +2151,10 @@ window.CATALOGO = [
             "name": "Negro 100% origen Venezuela",
             "description": "Puro cacao venezolano con nibs.",
             "image": "img/productos/rafa-gorrotxategi/negro-100-origen-venezuela.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/negro-100-origen-venezuela-2.webp",
+              "img/productos/rafa-gorrotxategi/negro-100-origen-venezuela-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1919,6 +2171,10 @@ window.CATALOGO = [
             "name": "Con leche 32% con caramelo y sal de Añana",
             "description": "Chocolate con leche al caramelo con escamas de sal de Añana.",
             "image": "img/productos/rafa-gorrotxategi/con-leche-32-con-caramelo-y-sal-de-anana.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/con-leche-32-con-caramelo-y-sal-de-anana-2.webp",
+              "img/productos/rafa-gorrotxategi/con-leche-32-con-caramelo-y-sal-de-anana-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1935,6 +2191,10 @@ window.CATALOGO = [
             "name": "Con leche 32% cappuccino y nibs de toffee",
             "description": "Sabor a cappuccino, almendra Marcona y nibs de toffee.",
             "image": "img/productos/rafa-gorrotxategi/con-leche-32-cappuccino-y-nibs-de-toffee.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/con-leche-32-cappuccino-y-nibs-de-toffee-2.webp",
+              "img/productos/rafa-gorrotxategi/con-leche-32-cappuccino-y-nibs-de-toffee-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1951,6 +2211,10 @@ window.CATALOGO = [
             "name": "Con leche 42% con tejas de almendra",
             "description": "Terra Cacao™ con tejas de almendra crujientes.",
             "image": "img/productos/rafa-gorrotxategi/con-leche-42-con-tejas-de-almendra.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/con-leche-42-con-tejas-de-almendra-2.webp",
+              "img/productos/rafa-gorrotxategi/con-leche-42-con-tejas-de-almendra-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -1967,6 +2231,10 @@ window.CATALOGO = [
             "name": "Con leche 42% Terra Cacao",
             "description": "Sabor delicado, refinado y duradero.",
             "image": "img/productos/rafa-gorrotxategi/con-leche-42-terra-cacao.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/con-leche-42-terra-cacao-2.webp",
+              "img/productos/rafa-gorrotxategi/con-leche-42-terra-cacao-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2000,6 +2268,10 @@ window.CATALOGO = [
             "name": "Ruby 48% con fresas",
             "description": "El chocolate rosado, con fresas y pétalos de rosa.",
             "image": "img/productos/rafa-gorrotxategi/ruby-48-con-fresas.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/ruby-48-con-fresas-2.webp",
+              "img/productos/rafa-gorrotxategi/ruby-48-con-fresas-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2017,6 +2289,10 @@ window.CATALOGO = [
             "name": "Con leche 42% con mandarina de Calabria",
             "description": "Mandarina de Calabria, pasas sultanas y frambuesa.",
             "image": "img/productos/rafa-gorrotxategi/con-leche-42-con-mandarina-de-calabria.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/con-leche-42-con-mandarina-de-calabria-2.webp",
+              "img/productos/rafa-gorrotxategi/con-leche-42-con-mandarina-de-calabria-3.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2109,6 +2385,9 @@ window.CATALOGO = [
             "name": "Trufas selección",
             "description": "Rellenas de ron Diplomático, frambuesa, naranja y praliné.",
             "image": "img/productos/rafa-gorrotxategi/trufas-seleccion.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/trufas-seleccion-2.webp"
+            ],
             "formats": [
               {
                 "label": "6 trufas",
@@ -2130,6 +2409,9 @@ window.CATALOGO = [
             "name": "Euskal Pilotak",
             "description": "Bombones en forma de media pelota vasca, seis sabores.",
             "image": "img/productos/rafa-gorrotxategi/euskal-pilotak.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/euskal-pilotak-2.webp"
+            ],
             "formats": [
               {
                 "label": "6 bombones",
@@ -2148,6 +2430,9 @@ window.CATALOGO = [
             "name": "Trufas al ron Diplomático",
             "description": "Trufas negras con ron Diplomático Reserva Exclusiva.",
             "image": "img/productos/rafa-gorrotxategi/trufas-al-ron-diplomatico.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/trufas-al-ron-diplomatico-2.webp"
+            ],
             "formats": [
               {
                 "label": "6 trufas",
@@ -2186,6 +2471,9 @@ window.CATALOGO = [
             "name": "Turrón blando",
             "description": "Almendra Marcona y miel, textura suave.",
             "image": "img/productos/rafa-gorrotxategi/turron-blando.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/turron-blando-2.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2218,6 +2506,9 @@ window.CATALOGO = [
             "name": "Turrón de chocolate negro con almendra marcona y stevia",
             "description": "Sin azúcares añadidos, endulzado con stevia.",
             "image": "img/productos/rafa-gorrotxategi/turron-de-chocolate-negro-con-almendra-marcona-y-stevia.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/turron-de-chocolate-negro-con-almendra-marcona-y-stevia-2.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2235,6 +2526,9 @@ window.CATALOGO = [
             "name": "Turrón de mandarina y yuzu de trufa blanca",
             "description": "Trufa blanca con mandarina y yuzu japonés.",
             "image": "img/productos/rafa-gorrotxategi/turron-de-mandarina-y-yuzu-de-trufa-blanca.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/turron-de-mandarina-y-yuzu-de-trufa-blanca-2.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2267,6 +2561,9 @@ window.CATALOGO = [
             "name": "Turrón de lima y limón de trufa blanca",
             "description": "Novedad del centenario: trufa blanca con lima y limón.",
             "image": "img/productos/rafa-gorrotxategi/turron-de-lima-y-limon-de-trufa-blanca.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/turron-de-lima-y-limon-de-trufa-blanca-2.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2284,6 +2581,9 @@ window.CATALOGO = [
             "name": "Turrón de Armagnac y ciruelas de trufa negra",
             "description": "Chocolate negro, Armagnac y ciruelas maceradas.",
             "image": "img/productos/rafa-gorrotxategi/turron-de-armagnac-y-ciruelas-de-trufa-negra.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/turron-de-armagnac-y-ciruelas-de-trufa-negra-2.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2316,6 +2616,9 @@ window.CATALOGO = [
             "name": "Turrón de chocolate caramelo con avellanas y albaricoque",
             "description": "Chocolate al caramelo, avellana tostada y albaricoque.",
             "image": "img/productos/rafa-gorrotxategi/turron-de-chocolate-caramelo-con-avellanas-y-albaricoque.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/turron-de-chocolate-caramelo-con-avellanas-y-albaricoque-2.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2332,6 +2635,9 @@ window.CATALOGO = [
             "name": "Turrón de chocolate con leche cappuccino, macadamia y pistacho",
             "description": "Macadamia y mazapán de pistacho.",
             "image": "img/productos/rafa-gorrotxategi/turron-de-chocolate-con-leche-cappuccino-macadamia-y-pistacho.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/turron-de-chocolate-con-leche-cappuccino-macadamia-y-pistacho-2.webp"
+            ],
             "formats": [
               {
                 "label": "Tableta",
@@ -2599,6 +2905,9 @@ window.CATALOGO = [
             "name": "Chocolate a la taza",
             "description": "Bolsa para hostelería.",
             "image": "img/productos/rafa-gorrotxategi/chocolate-a-la-taza.webp",
+            "gallery": [
+              "img/productos/rafa-gorrotxategi/chocolate-a-la-taza-2.webp"
+            ],
             "formats": [
               {
                 "label": "Bolsa",

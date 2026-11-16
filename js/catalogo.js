@@ -295,11 +295,29 @@ function openDetail(house, product, categoryName) {
   const formats = document.getElementById("detail-formats");
   document.getElementById("detail-formats-title").textContent =
     product.formats.length > 1 ? "Presentaciones" : "Presentación";
-  // Formats with their own photo (e.g. each flavour) show a thumbnail; picking one swaps the big photo.
+  // Formats with their own photo (e.g. each flavour) and the extra photos of the product (`gallery`) show a
+  // thumbnail; picking one swaps the big photo.
   const showPhoto = (src, button) => {
     img.src = src;
-    formats.querySelectorAll("button.flavour").forEach(b => b.setAttribute("aria-pressed", String(b === button)));
+    document
+      .querySelectorAll("#detail-formats button.flavour, #detail-thumbs button")
+      .forEach(b => b.setAttribute("aria-pressed", String(b === button)));
   };
+  const gallery = product.image && product.gallery?.length ? [product.image, ...product.gallery] : [];
+  const thumbs = document.getElementById("detail-thumbs");
+  thumbs.hidden = gallery.length === 0;
+  photo.classList.toggle("with-gallery", gallery.length > 0);
+  thumbs.replaceChildren(
+    ...gallery.map((src, i) => {
+      const button = el(
+        "button",
+        { type: "button", "aria-pressed": String(i === 0), "aria-label": `Ver foto ${i + 1} de ${gallery.length}` },
+        el("img", { src, alt: "", loading: "lazy" }),
+      );
+      button.addEventListener("click", () => showPhoto(src, button));
+      return button;
+    }),
+  );
   formats.replaceChildren(
     ...product.formats.map(f => {
       const text = [

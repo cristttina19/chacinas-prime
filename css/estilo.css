@@ -670,6 +670,44 @@ dialog::backdrop {
   background: var(--cream);
 }
 
+/* Product with extra photos: big photo on top, a row of thumbnails underneath */
+.detail .photo.with-gallery {
+  flex-direction: column;
+  gap: 16px;
+}
+
+.detail .thumbs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.detail .thumbs button {
+  width: 64px;
+  height: 64px;
+  padding: 3px;
+  background: #fff;
+  border: 1px solid var(--stone);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.detail .thumbs button:hover {
+  border-color: var(--gold);
+}
+
+.detail .thumbs button[aria-pressed="true"] {
+  border: 2px solid var(--gold);
+  padding: 2px;
+}
+
+.detail .thumbs img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 .detail .photo.empty img {
   width: 56%;
   opacity: 0.22;
